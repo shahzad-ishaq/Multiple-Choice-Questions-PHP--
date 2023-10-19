@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/multiple-choice-task.git
+git clone https://github.com/shahzad-ishaq/Multiple-Choice-Questions-PHP--.git
 Install dependencies:
 
 bash
