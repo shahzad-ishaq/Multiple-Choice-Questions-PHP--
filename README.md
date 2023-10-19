@@ -54,8 +54,11 @@ Database Setup
 Define a database table to store the questions, options, and correct answers.
 
 Create a migration using php artisan make:migration.
+![Alt text](image-1.png)
 
+![Alt text](image-2.png)
 
+![Alt text](image.png)
 
 
 This README file provides an outline for documenting your multiple choice task application. Make sure to customize it based on the specifics of your project.
